@@ -1,0 +1,48 @@
+body {
+	padding: 40px;
+}
+
+table {
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+ 
+tr {
+	line-height: 2rem;
+}
+
+.green {
+	background-color: green;
+}
+
+.red {
+	background-color: red;
+}
+
+.hidden {
+	display: none;
+}
+
+.name-column {
+	padding: 5px;
+}
+
+.p-1 {
+	padding: 0.5rem;
+}
+
+.small-box {
+	min-width: 2rem;
+}
+
+.text-center {
+	text-align: center;
+}
+
+#header-row {
+	background: lightgray;
+}
